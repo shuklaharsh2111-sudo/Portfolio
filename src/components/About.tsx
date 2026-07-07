@@ -43,7 +43,7 @@ const About = () => {
     passionate{" "}
     <span className="text-primary">Full Stack Developer</span> Completed B.Sc.Computer Science with 8.96/10 CGPA, 
     currently
-    pursuing a{" "}
+    pursuing {" "}
     <span className="text-primary">
       Masters of Science (M.Sc.) in Computer Science
     </span>
