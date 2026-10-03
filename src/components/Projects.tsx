@@ -62,7 +62,7 @@ const projects = [
       "Developed a responsive e-commerce frontend for a clothing brand featuring product browsing, a temporary shopping cart, invoice generation, and payment gateway integration in a testing environment.",
     tech: ["React.js", "Vite", "JavaScript", "HTML", "CSS", "Tailwind CSS", "Responsive Design"],
     github: "https://github.com/shuklaharsh2111-sudo/StyleHub",
-    live: "",
+    live: "https://stylehub-folw.onrender.com/",
     color: "from-violet-500/20 to-primary/20",
     image: styleHubImg,
   },
