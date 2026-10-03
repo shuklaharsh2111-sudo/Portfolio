@@ -6,6 +6,7 @@ import crmImg from "@/assets/prj_company_crm.png";
 import votingImg from "@/assets/prj_voting_portal.png";
 import workoutImg from "@/assets/prj_gymtrack.png";
 import styleHubImg from "@/assets/prj_stylehub.png";
+import garbamateimg from "@/assets/garbamate.png";
 
 const projects = [
     {
