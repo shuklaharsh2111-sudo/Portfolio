@@ -26,6 +26,15 @@ const projects = [
     color: "from-primary/20 to-blue-500/20",
     image: crmImg,
   },
+    {
+        title:"Garbamate",
+        description:"People who don't hava a garba partner during navratri can register and find a suitable garba partner for themselves, Users can only login after the admin verification",
+        tech:["php","css","javascript","mysql","role-based access"],
+        github:"https://github.com/shuklaharsh2111-sudo/Garbamate",
+        live:"https://garbamate.site.je/",
+        color:"from-primary/20 to-blue-500/20",
+        image:garbamateimg,
+    },
   {
     title: "Online College Voting Portal(fullstack)",
     description:
